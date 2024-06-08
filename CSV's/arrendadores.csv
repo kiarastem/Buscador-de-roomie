@@ -1,0 +1,81 @@
+nombre,edad,genero,facultad,gustos,contacto,sector,direccion,cantidad_roomies,valor_por_roomie
+Sebastian Araya,28,Masculino,Ingeniería,lectura|música,345678901,Valparaíso,Calle Independencia 123,2,150000
+Daniela Fernández,26,Femenino,Medicina,dibujo|anime,456789012,Viña del Mar,Avenida Libertad 456,1,250000
+Felipe Sánchez,30,Masculino,Derecho,videojuegos|lectura,567890123,Quilpué,Calle 21 de Mayo 789,3,100000
+Carolina Rojas,27,Femenino,Psicología,anime|música,678901234,Valparaíso,Calle Blanco 101,2,200000
+Gonzalo Pérez,29,Masculino,Economía,cultura coreana|dibujo,789012345,Viña del Mar,Avenida Perú 202,1,300000
+Lorena Castillo,31,Femenino,Periodismo,lectura|videojuegos,890123456,Quilpué,Calle Condell 303,2,150000
+Andrés Vega,27,Masculino,Educación,música|anime,901234567,Valparaíso,Calle Errázuriz 404,2,200000
+María Bravo,28,Femenino,Arquitectura,videojuegos|lectura,012345678,Viña del Mar,Calle Valparaíso 505,1,250000
+Victor Ramírez,29,Masculino,Ingeniería,anime|música,123456789,Quilpué,Calle Álvarez 606,3,100000
+Patricia Navarro,26,Femenino,Psicología,cultura coreana|dibujo,234567890,Valparaíso,Avenida Argentina 707,2,200000
+Camilo Torres,30,Masculino,Economía,lectura|videojuegos,345678912,Viña del Mar,Calle Bellavista 808,1,300000
+Gabriela Herrera,31,Femenino,Medicina,anime|música,456789013,Quilpué,Calle Valdivia 909,2,150000
+Esteban López,27,Masculino,Derecho,dibujo|videojuegos,567890124,Valparaíso,Calle Chacabuco 1010,2,200000
+Alejandra Muñoz,28,Femenino,Periodismo,lectura|anime,678901235,Viña del Mar,Avenida Marina 1111,1,250000
+Ricardo Olivares,29,Masculino,Educación,música|videojuegos,789012346,Quilpué,Calle Edwards 1212,3,100000
+Fernanda Espinoza,30,Femenino,Arquitectura,anime|lectura,890123457,Valparaíso,Calle Montt 1313,2,200000
+Pedro Gutiérrez,26,Masculino,Ingeniería,cultura coreana|dibujo,901234568,Viña del Mar,Avenida Libertad 1414,1,300000
+Verónica Guzmán,31,Femenino,Psicología,lectura|videojuegos,012345679,Quilpué,Calle O'Higgins 1515,2,150000
+Roberto Figueroa,28,Masculino,Economía,anime|música,123456780,Valparaíso,Calle Victoria 1616,2,200000
+Mónica Molina,29,Femenino,Medicina,videojuegos|lectura,234567891,Viña del Mar,Avenida Agua Santa 1717,1,250000
+Juan Pérez,25,Masculino,Ingeniería,deportes|viajes,345678902,Valparaíso,Calle Independencia 124,2,150000
+Ana Soto,27,Femenino,Medicina,baile|cocina,456789013,Viña del Mar,Avenida Libertad 457,1,250000
+Carlos González,29,Masculino,Derecho,películas|teatro,567890124,Quilpué,Calle 21 de Mayo 790,3,100000
+Laura Rojas,26,Femenino,Psicología,lectura|naturaleza,678901235,Valparaíso,Calle Blanco 102,2,200000
+Pedro Pérez,28,Masculino,Economía,música|fotografía,789012346,Viña del Mar,Avenida Perú 203,1,300000
+Sofía Castillo,30,Femenino,Periodismo,arte|viajes,890123457,Quilpué,Calle Condell 304,2,150000
+Diego Vega,27,Masculino,Educación,cine|deportes,901234568,Valparaíso,Calle Errázuriz 405,2,200000
+María Bravo,28,Femenino,Arquitectura,fotografía|lectura,012345679,Viña del Mar,Calle Valparaíso 506,1,250000
+Andrés Ramírez,29,Masculino,Ingeniería,música|teatro,123456780,Quilpué,Calle Álvarez 607,3,100000
+Carolina Navarro,26,Femenino,Psicología,arte|naturaleza,234567891,Valparaíso,Avenida Argentina 708,2,200000
+Gabriel Torres,30,Masculino,Economía,lectura|cine,345678912,Viña del Mar,Calle Bellavista 809,1,300000
+Fernanda Herrera,31,Femenino,Medicina,baile|música,456789013,Quilpué,Calle Valdivia 910,2,150000
+Esteban López,27,Masculino,Derecho,fotografía|teatro,567890124,Valparaíso,Calle Chacabuco 1011,2,200000
+Alejandra Muñoz,28,Femenino,Periodismo,lectura|arte,678901235,Viña del Mar,Avenida Marina 1112,1,250000
+Ricardo Olivares,29,Masculino,Educación,música|cine,789012346,Quilpué,Calle Edwards 1213,3,100000
+Fernanda Espinoza,30,Femenino,Arquitectura,baile|fotografía,890123457,Valparaíso,Calle Montt 1314,2,200000
+Pedro Gutiérrez,26,Masculino,Ingeniería,arte|naturaleza,901234568,Viña del Mar,Avenida Libertad 1415,1,300000
+Verónica Guzmán,31,Femenino,Psicología,lectura|cine,012345679,Quilpué,Calle O'Higgins 1516,2,150000
+Roberto Figueroa,28,Masculino,Economía,música|baile,123456780,Valparaíso,Calle Victoria 1617,2,200000
+Mónica Molina,29,Femenino,Medicina,fotografía|teatro,234567891,Viña del Mar,Avenida Agua Santa 1718,1,250000
+Pedro Soto,25,Masculino,Ingeniería,lectura|videojuegos,345678903,Valparaíso,Calle Independencia 125,2,150000
+María Fernández,27,Femenino,Medicina,dibujo|música,456789014,Viña del Mar,Avenida Libertad 458,1,250000
+Andrés Sánchez,29,Masculino,Derecho,deportes|lectura,567890125,Quilpué,Calle 21 de Mayo 791,3,100000
+Carolina Rojas,26,Femenino,Psicología,cocina|baile,678901236,Valparaíso,Calle Blanco 103,2,200000
+Gonzalo Pérez,28,Masculino,Economía,cine|fotografía,789012347,Viña del Mar,Avenida Perú 204,1,300000
+Lorena Castillo,30,Femenino,Periodismo,viajes|teatro,890123458,Quilpué,Calle Condell 305,2,150000
+Andrés Vega,27,Masculino,Educación,naturaleza|lectura,901234569,Valparaíso,Calle Errázuriz 406,2,200000
+María Bravo,28,Femenino,Arquitectura,música|deportes,012345680,Viña del Mar,Calle Valparaíso 507,1,250000
+Victor Ramírez,29,Masculino,Ingeniería,dibujo|fotografía,123456791,Quilpué,Calle Álvarez 608,3,100000
+Patricia Navarro,26,Femenino,Psicología,videojuegos|baile,234567902,Valparaíso,Avenida Argentina 709,2,200000
+Camilo Torres,30,Masculino,Economía,lectura|naturaleza,345678913,Viña del Mar,Calle Bellavista 810,1,300000
+Gabriela Herrera,31,Femenino,Medicina,cine|viajes,456789024,Quilpué,Calle Valdivia 911,2,150000
+Esteban López,27,Masculino,Derecho,teatro|cocina,567890135,Valparaíso,Calle Chacabuco 1012,2,200000
+Alejandra Muñoz,28,Femenino,Periodismo,música|fotografía,678901246,Viña del Mar,Avenida Marina 1113,1,250000
+Ricardo Olivares,29,Masculino,Educación,deportes|lectura,789012357,Quilpué,Calle Edwards 1214,3,100000
+Fernanda Espinoza,30,Femenino,Arquitectura,baile|cine,890123468,Valparaíso,Calle Montt 1315,2,200000
+Pedro Gutiérrez,26,Masculino,Ingeniería,fotografía|viajes,901234579,Viña del Mar,Avenida Libertad 1416,1,300000
+Verónica Guzmán,31,Femenino,Psicología,teatro|naturaleza,012345680,Quilpué,Calle O'Higgins 1517,2,150000
+Roberto Figueroa,28,Masculino,Economía,música|cocina,123456791,Valparaíso,Calle Victoria 1618,2,200000
+Mónica Molina,29,Femenino,Medicina,fotografía|baile,234567902,Viña del Mar,Avenida Agua Santa 1719,1,250000
+Juan Pérez,25,Masculino,Ingeniería,lectura|videojuegos,345678913,Valparaíso,Calle Independencia 126,2,150000
+Ana Soto,27,Femenino,Medicina,dibujo|música,456789024,Viña del Mar,Avenida Libertad 459,1,250000
+Carlos González,29,Masculino,Derecho,deportes|lectura,567890135,Quilpué,Calle 21 de Mayo 792,3,100000
+Laura Rojas,26,Femenino,Psicología,cocina|baile,678901246,Valparaíso,Calle Blanco 104,2,200000
+Pedro Pérez,28,Masculino,Economía,cine|fotografía,789012357,Viña del Mar,Avenida Perú 205,1,300000
+Sofía Castillo,30,Femenino,Periodismo,viajes|teatro,890123468,Quilpué,Calle Condell 306,2,150000
+Diego Vega,27,Masculino,Educación,naturaleza|lectura,901234579,Valparaíso,Calle Errázuriz 407,2,200000
+María Bravo,28,Femenino,Arquitectura,música|deportes,012345680,Viña del Mar,Calle Valparaíso 508,1,250000
+Andrés Ramírez,29,Masculino,Ingeniería,dibujo|fotografía,123456791,Quilpué,Calle Álvarez 609,3,100000
+Carolina Navarro,26,Femenino,Psicología,videojuegos|baile,234567902,Valparaíso,Avenida Argentina 710,2,200000
+Gabriel Torres,30,Masculino,Economía,lectura|naturaleza,345678913,Viña del Mar,Calle Bellavista 811,1,300000
+Fernanda Herrera,31,Femenino,Medicina,cine|viajes,456789024,Quilpué,Calle Valdivia 912,2,150000
+Esteban López,27,Masculino,Derecho,teatro|cocina,567890135,Valparaíso,Calle Chacabuco 1013,2,200000
+Alejandra Muñoz,28,Femenino,Periodismo,música|fotografía,678901246,Viña del Mar,Avenida Marina 1114,1,250000
+Ricardo Olivares,29,Masculino,Educación,deportes|lectura,789012357,Quilpué,Calle Edwards 1215,3,100000
+Fernanda Espinoza,30,Femenino,Arquitectura,baile|cine,890123468,Valparaíso,Calle Montt 1316,2,200000
+Pedro Gutiérrez,26,Masculino,Ingeniería,fotografía|viajes,901234579,Viña del Mar,Avenida Libertad 1417,1,300000
+Verónica Guzmán,31,Femenino,Psicología,teatro|naturaleza,012345680,Quilpué,Calle O'Higgins 1518,2,150000
+Roberto Figueroa,28,Masculino,Economía,música|cocina,123456791,Valparaíso,Calle Victoria 1619,2,200000
+Mónica Molina,29,Femenino,Medicina,fotografía|baile,234567902,Viña del Mar,Avenida Agua Santa 1720,1,250000

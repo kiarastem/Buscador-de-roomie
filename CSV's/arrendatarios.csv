@@ -1,0 +1,147 @@
+nombre,edad,genero,facultad,gustos,contacto,sector,presupuesto
+Juan Perez,20,Masculino,Ingeniería,lectura|videojuegos,123456789,Valparaíso,300000
+Maria Lopez,22,Femenino,Medicina,dibujo|música,987654321,Viña del Mar,250000
+Carlos Muñoz,23,Masculino,Derecho,anime|cultura coreana,456789123,Quilpué,280000
+Ana Contreras,21,Femenino,Psicología,lectura|anime,234567891,Valparaíso,320000
+Luis Torres,24,Masculino,Economía,videojuegos|música,345678912,Viña del Mar,350000
+Sofía Díaz,22,Femenino,Periodismo,dibujo|lectura,987321654,Quilpué,260000
+Javier Vega,25,Masculino,Educación,videojuegos|cultura coreana,678912345,Valparaíso,340000
+Fernanda Silva,20,Femenino,Arquitectura,anime|música,789123456,Viña del Mar,300000
+Diego Rojas,23,Masculino,Ingeniería,lectura|cultura coreana,891234567,Quilpué,310000
+Laura Gómez,21,Femenino,Psicología,dibujo|videojuegos,912345678,Valparaíso,330000
+Ignacio Morales,22,Masculino,Economía,lectura|anime,213456789,Viña del Mar,270000
+Camila Ruiz,24,Femenino,Medicina,videojuegos|música,324567891,Quilpué,290000
+Francisco Peña,23,Masculino,Derecho,dibujo|anime,435678912,Valparaíso,310000
+Valentina Herrera,21,Femenino,Periodismo,lectura|videojuegos,546789123,Viña del Mar,250000
+Cristian Castro,22,Masculino,Educación,cultura coreana|música,657891234,Quilpué,300000
+Paula Flores,25,Femenino,Arquitectura,anime|videojuegos,768912345,Valparaíso,340000
+Miguel Castillo,20,Masculino,Ingeniería,lectura|dibujo,879123456,Viña del Mar,290000
+Natalia Fuentes,22,Femenino,Psicología,videojuegos|cultura coreana,981234567,Quilpué,260000
+Rodrigo Vargas,23,Masculino,Economía,música|anime,123456780,Valparaíso,350000
+Martina Reyes,21,Femenino,Medicina,lectura|videojuegos,234567892,Viña del Mar,280000
+Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Santiago,320000
+Isabella Torres,22,Femenino,Medicina,cine|baile,678901234,Viña del Mar,280000
+Andrés Morales,23,Masculino,Arquitectura,fotografía|viajes,789012345,Valparaíso,300000
+Carolina Soto,21,Femenino,Economía,teatro|naturaleza,890123456,Quilpué,270000
+Juan Perez,20,Masculino,Ingeniería,lectura|videojuegos,123456789,Valparaíso,300000
+Maria Lopez,22,Femenino,Medicina,dibujo|música,987654321,Viña del Mar,250000
+Carlos Muñoz,23,Masculino,Derecho,anime|cultura coreana,456789123,Quilpué,280000
+Ana Contreras,21,Femenino,Psicología,lectura|anime,234567891,Valparaíso,320000
+Luis Torres,24,Masculino,Economía,videojuegos|música,345678912,Viña del Mar,350000
+Sofía Díaz,22,Femenino,Periodismo,dibujo|lectura,987321654,Quilpué,260000
+Javier Vega,25,Masculino,Educación,videojuegos|cultura coreana,678912345,Valparaíso,340000
+Fernanda Silva,20,Femenino,Arquitectura,anime|música,789123456,Viña del Mar,300000
+Diego Rojas,23,Masculino,Ingeniería,lectura|cultura coreana,891234567,Quilpué,310000
+Laura Gómez,21,Femenino,Psicología,dibujo|videojuegos,912345678,Valparaíso,330000
+Ignacio Morales,22,Masculino,Economía,lectura|anime,213456789,Viña del Mar,270000
+Camila Ruiz,24,Femenino,Medicina,videojuegos|música,324567891,Quilpué,290000
+Francisco Peña,23,Masculino,Derecho,dibujo|anime,435678912,Valparaíso,310000
+Valentina Herrera,21,Femenino,Periodismo,lectura|videojuegos,546789123,Viña del Mar,250000
+Cristian Castro,22,Masculino,Educación,cultura coreana|música,657891234,Quilpué,300000
+Paula Flores,25,Femenino,Arquitectura,anime|videojuegos,768912345,Valparaíso,340000
+Miguel Castillo,20,Masculino,Ingeniería,lectura|dibujo,879123456,Viña del Mar,290000
+Natalia Fuentes,22,Femenino,Psicología,videojuegos|cultura coreana,981234567,Quilpué,260000
+Rodrigo Vargas,23,Masculino,Economía,música|anime,123456780,Valparaíso,350000
+Martina Reyes,21,Femenino,Medicina,lectura|videojuegos,234567892,Viña del Mar,280000
+Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Santiago,320000
+Isabella Torres,22,Femenino,Medicina,cine|baile,678901234,Viña del Mar,280000
+Andrés Morales,23,Masculino,Arquitectura,fotografía|viajes,789012345,Valparaíso,300000
+Carolina Soto,21,Femenino,Economía,teatro|naturaleza,890123456,Quilpué,270000
+Juan Perez,20,Masculino,Ingeniería,lectura|videojuegos,123456789,Valparaíso,300000
+Maria Lopez,22,Femenino,Medicina,dibujo|música,987654321,Viña del Mar,250000
+Carlos Muñoz,23,Masculino,Derecho,anime|cultura coreana,456789123,Quilpué,280000
+Ana Contreras,21,Femenino,Psicología,lectura|anime,234567891,Valparaíso,320000
+Luis Torres,24,Masculino,Economía,videojuegos|música,345678912,Viña del Mar,350000
+Sofía Díaz,22,Femenino,Periodismo,dibujo|lectura,987321654,Quilpué,260000
+Javier Vega,25,Masculino,Educación,videojuegos|cultura coreana,678912345,Valparaíso,340000
+Fernanda Silva,20,Femenino,Arquitectura,anime|música,789123456,Viña del Mar,300000
+Diego Rojas,23,Masculino,Ingeniería,lectura|cultura coreana,891234567,Quilpué,310000
+Laura Gómez,21,Femenino,Psicología,dibujo|videojuegos,912345678,Valparaíso,330000
+Ignacio Morales,22,Masculino,Economía,lectura|anime,213456789,Viña del Mar,270000
+Camila Ruiz,24,Femenino,Medicina,videojuegos|música,324567891,Quilpué,290000
+Francisco Peña,23,Masculino,Derecho,dibujo|anime,435678912,Valparaíso,310000
+Valentina Herrera,21,Femenino,Periodismo,lectura|videojuegos,546789123,Viña del Mar,250000
+Cristian Castro,22,Masculino,Educación,cultura coreana|música,657891234,Quilpué,300000
+Paula Flores,25,Femenino,Arquitectura,anime|videojuegos,768912345,Valparaíso,340000
+Miguel Castillo,20,Masculino,Ingeniería,lectura|dibujo,879123456,Viña del Mar,290000
+Natalia Fuentes,22,Femenino,Psicología,videojuegos|cultura coreana,981234567,Quilpué,260000
+Rodrigo Vargas,23,Masculino,Economía,música|anime,123456780,Valparaíso,350000
+Martina Reyes,21,Femenino,Medicina,lectura|videojuegos,234567892,Viña del Mar,280000
+Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Santiago,320000
+Isabella Torres,22,Femenino,Medicina,cine|baile,678901234,Viña del Mar,280000
+Andrés Morales,23,Masculino,Arquitectura,fotografía|viajes,789012345,Valparaíso,300000
+Carolina Soto,21,Femenino,Economía,teatro|naturaleza,890123456,Quilpué,270000
+Juan Perez,20,Masculino,Ingeniería,lectura|videojuegos,123456789,Valparaíso,300000
+Maria Lopez,22,Femenino,Medicina,dibujo|música,987654321,Viña del Mar,250000
+Carlos Muñoz,23,Masculino,Derecho,anime|cultura coreana,456789123,Quilpué,280000
+Ana Contreras,21,Femenino,Psicología,lectura|anime,234567891,Valparaíso,320000
+Luis Torres,24,Masculino,Economía,videojuegos|música,345678912,Viña del Mar,350000
+Sofía Díaz,22,Femenino,Periodismo,dibujo|lectura,987321654,Quilpué,260000
+Javier Vega,25,Masculino,Educación,videojuegos|cultura coreana,678912345,Valparaíso,340000
+Fernanda Silva,20,Femenino,Arquitectura,anime|música,789123456,Viña del Mar,300000
+Diego Rojas,23,Masculino,Ingeniería,lectura|cultura coreana,891234567,Quilpué,310000
+Laura Gómez,21,Femenino,Psicología,dibujo|videojuegos,912345678,Valparaíso,330000
+Ignacio Morales,22,Masculino,Economía,lectura|anime,213456789,Viña del Mar,270000
+Camila Ruiz,24,Femenino,Medicina,videojuegos|música,324567891,Quilpué,290000
+Francisco Peña,23,Masculino,Derecho,dibujo|anime,435678912,Valparaíso,310000
+Valentina Herrera,21,Femenino,Periodismo,lectura|videojuegos,546789123,Viña del Mar,250000
+Cristian Castro,22,Masculino,Educación,cultura coreana|música,657891234,Quilpué,300000
+Paula Flores,25,Femenino,Arquitectura,anime|videojuegos,768912345,Valparaíso,340000
+Miguel Castillo,20,Masculino,Ingeniería,lectura|dibujo,879123456,Viña del Mar,290000
+Natalia Fuentes,22,Femenino,Psicología,videojuegos|cultura coreana,981234567,Quilpué,260000
+Rodrigo Vargas,23,Masculino,Economía,música|anime,123456780,Valparaíso,350000
+Martina Reyes,21,Femenino,Medicina,lectura|videojuegos,234567892,Viña del Mar,280000
+Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Santiago,320000
+Isabella Torres,22,Femenino,Medicina,cine|baile,678901234,Viña del Mar,280000
+Andrés Morales,23,Masculino,Arquitectura,fotografía|viajes,789012345,Valparaíso,300000
+Carolina Soto,21,Femenino,Economía,teatro|naturaleza,890123456,Quilpué,270000
+Juan Perez,20,Masculino,Ingeniería,lectura|videojuegos,123456789,Valparaíso,300000
+Maria Lopez,22,Femenino,Medicina,dibujo|música,987654321,Viña del Mar,250000
+Carlos Muñoz,23,Masculino,Derecho,anime|cultura coreana,456789123,Quilpué,280000
+Ana Contreras,21,Femenino,Psicología,lectura|anime,234567891,Valparaíso,320000
+Luis Torres,24,Masculino,Economía,videojuegos|música,345678912,Viña del Mar,350000
+Sofía Díaz,22,Femenino,Periodismo,dibujo|lectura,987321654,Quilpué,260000
+Javier Vega,25,Masculino,Educación,videojuegos|cultura coreana,678912345,Valparaíso,340000
+Fernanda Silva,20,Femenino,Arquitectura,anime|música,789123456,Viña del Mar,300000
+Diego Rojas,23,Masculino,Ingeniería,lectura|cultura coreana,891234567,Quilpué,310000
+Laura Gómez,21,Femenino,Psicología,dibujo|videojuegos,912345678,Valparaíso,330000
+Ignacio Morales,22,Masculino,Economía,lectura|anime,213456789,Viña del Mar,270000
+Camila Ruiz,24,Femenino,Medicina,videojuegos|música,324567891,Quilpué,290000
+Francisco Peña,23,Masculino,Derecho,dibujo|anime,435678912,Valparaíso,310000
+Valentina Herrera,21,Femenino,Periodismo,lectura|videojuegos,546789123,Viña del Mar,250000
+Cristian Castro,22,Masculino,Educación,cultura coreana|música,657891234,Quilpué,300000
+Paula Flores,25,Femenino,Arquitectura,anime|videojuegos,768912345,Valparaíso,340000
+Miguel Castillo,20,Masculino,Ingeniería,lectura|dibujo,879123456,Viña del Mar,290000
+Natalia Fuentes,22,Femenino,Psicología,videojuegos|cultura coreana,981234567,Quilpué,260000
+Rodrigo Vargas,23,Masculino,Economía,música|anime,123456780,Valparaíso,350000
+Martina Reyes,21,Femenino,Medicina,lectura|videojuegos,234567892,Viña del Mar,280000
+Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Santiago,320000
+Isabella Torres,22,Femenino,Medicina,cine|baile,678901234,Viña del Mar,280000
+Andrés Morales,23,Masculino,Arquitectura,fotografía|viajes,789012345,Valparaíso,300000
+Carolina Soto,21,Femenino,Economía,teatro|naturaleza,890123456,Quilpué,270000
+Juan Perez,20,Masculino,Ingeniería,lectura|videojuegos,123456789,Valparaíso,300000
+Maria Lopez,22,Femenino,Medicina,dibujo|música,987654321,Viña del Mar,250000
+Carlos Muñoz,23,Masculino,Derecho,anime|cultura coreana,456789123,Quilpué,280000
+Ana Contreras,21,Femenino,Psicología,lectura|anime,234567891,Valparaíso,320000
+Luis Torres,24,Masculino,Economía,videojuegos|música,345678912,Viña del Mar,350000
+Sofía Díaz,22,Femenino,Periodismo,dibujo|lectura,987321654,Quilpué,260000
+Javier Vega,25,Masculino,Educación,videojuegos|cultura coreana,678912345,Valparaíso,340000
+Fernanda Silva,20,Femenino,Arquitectura,anime|música,789123456,Viña del Mar,300000
+Diego Rojas,23,Masculino,Ingeniería,lectura|cultura coreana,891234567,Quilpué,310000
+Laura Gómez,21,Femenino,Psicología,dibujo|videojuegos,912345678,Valparaíso,330000
+Ignacio Morales,22,Masculino,Economía,lectura|anime,213456789,Viña del Mar,270000
+Camila Ruiz,24,Femenino,Medicina,videojuegos|música,324567891,Quilpué,290000
+Francisco Peña,23,Masculino,Derecho,dibujo|anime,435678912,Valparaíso,310000
+Valentina Herrera,21,Femenino,Periodismo,lectura|videojuegos,546789123,Viña del Mar,250000
+Cristian Castro,22,Masculino,Educación,cultura coreana|música,657891234,Quilpué,300000
+Paula Flores,25,Femenino,Arquitectura,anime|videojuegos,768912345,Valparaíso,340000
+Miguel Castillo,20,Masculino,Ingeniería,lectura|dibujo,879123456,Viña del Mar,290000
+Natalia Fuentes,22,Femenino,Psicología,videojuegos|cultura coreana,981234567,Quilpué,260000
+Rodrigo Vargas,23,Masculino,Economía,música|anime,123456780,Valparaíso,350000
+Martina Reyes,21,Femenino,Medicina,lectura|videojuegos,234567892,Viña del Mar,280000
+Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Santiago,320000
+Isabella Torres,22,Femenino,Medicina,cine|baile,678901234,Viña del Mar,280000
+Andrés Morales,23,Masculino,Arquitectura,fotografía|viajes,789012345,Valparaíso,300000
+Carolina Soto,21,Femenino,Economía,teatro|naturaleza,890123456,Quilpué,270000
+Juan Perez,20,Masculino,Ingeniería,lectura|videojuegos,123456789,Valparaíso,300000
+Maria Lopez,22,Femenino,Medicina,dibujo|música,987654321,Viña del Mar,250000
