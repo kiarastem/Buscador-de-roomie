@@ -19,7 +19,7 @@ Miguel Castillo,20,Masculino,Ingeniería,lectura|dibujo,879123456,Viña del Mar,
 Natalia Fuentes,22,Femenino,Psicología,videojuegos|cultura coreana,981234567,Quilpué,260000
 Rodrigo Vargas,23,Masculino,Economía,música|anime,123456780,Valparaíso,350000
 Martina Reyes,21,Femenino,Medicina,lectura|videojuegos,234567892,Viña del Mar,280000
-Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Santiago,320000
+Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Viña del Mar,320000
 Isabella Torres,22,Femenino,Medicina,cine|baile,678901234,Viña del Mar,280000
 Andrés Morales,23,Masculino,Arquitectura,fotografía|viajes,789012345,Valparaíso,300000
 Carolina Soto,21,Femenino,Economía,teatro|naturaleza,890123456,Quilpué,270000
@@ -43,7 +43,7 @@ Miguel Castillo,20,Masculino,Ingeniería,lectura|dibujo,879123456,Viña del Mar,
 Natalia Fuentes,22,Femenino,Psicología,videojuegos|cultura coreana,981234567,Quilpué,260000
 Rodrigo Vargas,23,Masculino,Economía,música|anime,123456780,Valparaíso,350000
 Martina Reyes,21,Femenino,Medicina,lectura|videojuegos,234567892,Viña del Mar,280000
-Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Santiago,320000
+Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Viña del Mar,320000
 Isabella Torres,22,Femenino,Medicina,cine|baile,678901234,Viña del Mar,280000
 Andrés Morales,23,Masculino,Arquitectura,fotografía|viajes,789012345,Valparaíso,300000
 Carolina Soto,21,Femenino,Economía,teatro|naturaleza,890123456,Quilpué,270000
@@ -67,7 +67,7 @@ Miguel Castillo,20,Masculino,Ingeniería,lectura|dibujo,879123456,Viña del Mar,
 Natalia Fuentes,22,Femenino,Psicología,videojuegos|cultura coreana,981234567,Quilpué,260000
 Rodrigo Vargas,23,Masculino,Economía,música|anime,123456780,Valparaíso,350000
 Martina Reyes,21,Femenino,Medicina,lectura|videojuegos,234567892,Viña del Mar,280000
-Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Santiago,320000
+Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Viña del Mar,320000
 Isabella Torres,22,Femenino,Medicina,cine|baile,678901234,Viña del Mar,280000
 Andrés Morales,23,Masculino,Arquitectura,fotografía|viajes,789012345,Valparaíso,300000
 Carolina Soto,21,Femenino,Economía,teatro|naturaleza,890123456,Quilpué,270000
@@ -91,7 +91,7 @@ Miguel Castillo,20,Masculino,Ingeniería,lectura|dibujo,879123456,Viña del Mar,
 Natalia Fuentes,22,Femenino,Psicología,videojuegos|cultura coreana,981234567,Quilpué,260000
 Rodrigo Vargas,23,Masculino,Economía,música|anime,123456780,Valparaíso,350000
 Martina Reyes,21,Femenino,Medicina,lectura|videojuegos,234567892,Viña del Mar,280000
-Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Santiago,320000
+Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Viña del Mar,320000
 Isabella Torres,22,Femenino,Medicina,cine|baile,678901234,Viña del Mar,280000
 Andrés Morales,23,Masculino,Arquitectura,fotografía|viajes,789012345,Valparaíso,300000
 Carolina Soto,21,Femenino,Economía,teatro|naturaleza,890123456,Quilpué,270000
@@ -115,7 +115,7 @@ Miguel Castillo,20,Masculino,Ingeniería,lectura|dibujo,879123456,Viña del Mar,
 Natalia Fuentes,22,Femenino,Psicología,videojuegos|cultura coreana,981234567,Quilpué,260000
 Rodrigo Vargas,23,Masculino,Economía,música|anime,123456780,Valparaíso,350000
 Martina Reyes,21,Femenino,Medicina,lectura|videojuegos,234567892,Viña del Mar,280000
-Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Santiago,320000
+Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Viña del Mar,320000
 Isabella Torres,22,Femenino,Medicina,cine|baile,678901234,Viña del Mar,280000
 Andrés Morales,23,Masculino,Arquitectura,fotografía|viajes,789012345,Valparaíso,300000
 Carolina Soto,21,Femenino,Economía,teatro|naturaleza,890123456,Quilpué,270000
@@ -139,9 +139,10 @@ Miguel Castillo,20,Masculino,Ingeniería,lectura|dibujo,879123456,Viña del Mar,
 Natalia Fuentes,22,Femenino,Psicología,videojuegos|cultura coreana,981234567,Quilpué,260000
 Rodrigo Vargas,23,Masculino,Economía,música|anime,123456780,Valparaíso,350000
 Martina Reyes,21,Femenino,Medicina,lectura|videojuegos,234567892,Viña del Mar,280000
-Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Santiago,320000
+Pedro Ramirez,24,Masculino,Ingeniería,deportes|cocina,567890123,Viña del Mar,320000
 Isabella Torres,22,Femenino,Medicina,cine|baile,678901234,Viña del Mar,280000
 Andrés Morales,23,Masculino,Arquitectura,fotografía|viajes,789012345,Valparaíso,300000
 Carolina Soto,21,Femenino,Economía,teatro|naturaleza,890123456,Quilpué,270000
 Juan Perez,20,Masculino,Ingeniería,lectura|videojuegos,123456789,Valparaíso,300000
 Maria Lopez,22,Femenino,Medicina,dibujo|música,987654321,Viña del Mar,250000
+Gerardo Aros, 21, Masculino, Ingeniería, videojuegos|anime|teatro, 123456789, Valparaíso, 300000
